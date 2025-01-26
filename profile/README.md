@@ -14,6 +14,7 @@ An effective programming language to build efficient, fast, reliable and safe so
 <br>
 [Jule](https://github.com/julelang/jule) |
 [JuleFmt](https://github.com/julelang/julefmt) |
+[JuleDoc](https://github.com/julelang/juledoc) |
 [awesome-jule](https://github.com/julelang/awesome-jule) |
 [vscode-jule](https://github.com/julelang/vscode-jule) |
 [jule.nvim](https://github.com/julelang/jule.nvim)
