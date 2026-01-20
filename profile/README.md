@@ -7,6 +7,7 @@
 An effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity.
 
 [Website](https://jule.dev) |
+[The Mission](https://manual.jule.dev/the-mission) |
 [Manual](https://manual.jule.dev) |
 [Future of Jule](https://jule.dev/future-of-jule) |
 [Contributing](https://jule.dev/contribute) |
