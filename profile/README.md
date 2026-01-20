@@ -4,7 +4,7 @@
 </p>
 <h2>The Jule Programming Language</h2>
 
-An effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity.
+Simple and safe programming language with built-in concurrency, first-class C/C++ interoperability and powerful compile-time capabilities.
 
 [Website](https://jule.dev) |
 [The Mission](https://manual.jule.dev/the-mission) |
